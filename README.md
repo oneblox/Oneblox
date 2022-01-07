@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá 👋
+   !!!SOBRE!!!
+one blox é um jogo baseado em one piece no roblox e somos 3 pessoas fazendo. 
 
-<!--
-**oneblox/Oneblox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+one blox esta com 5 frutas a BARI, MERA, MOCHI, LIGHT E ICE
+  
+  !!!UPDATE 2!!!
+no update dois foi adicionado uma nova ilha uma nova fruta e o sistema de dash 
 
-Here are some ideas to get you started:
+  !!!UPDATE 3!!!
+no update 3 vamos adicionar o sistema de raid no jogo 1 nova ilha e arrumar os bugs nas frutas e nas ilhas ( tudo em geral )
+  
+  !!!UPDATE 4!!!
+no update 4 o jogo estara quase pronto sem muitos bugs e as frutas todas certinhas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  !!!SOBRE A EQUIPE!!!
+a equipe é composta por 3 pessoas, UM É MODELADOR E DESIGNER, O SEGUNDO É SCRIPTER E ANIMADOR E O ULTIMO E TERSEIRO É DESIGNER E SCRIPTER
